@@ -1,2 +1,1 @@
-# E-commerce
-An E-commerce website using react
+An E-commerce website using react.js
